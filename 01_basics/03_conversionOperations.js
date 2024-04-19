@@ -33,3 +33,6 @@ let str1 = "hellow"
 let str2 = "Gandhar"
 let str3 = str1 +str2
 console.log("1"+2+2);
+
+let = gameCounter = 100;
+// prefix and postfix operators
